@@ -8,7 +8,15 @@ What was the yearly debt percentage increase for each year compared to the previ
 Which months have historically seen the highest and lowest increases in total debt?
 What is the projected growth of publicly held debt in the coming years?
 
- Here is what I have found:
-											
-![Uploading image.png…]()
+ Here is what I have found:									
+									
+									
+									
+									
+									
+									
+									
+									
+![image](https://github.com/user-attachments/assets/00367478-8ffc-4808-9ea1-31426160807d)
+
 
